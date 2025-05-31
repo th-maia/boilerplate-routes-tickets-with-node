@@ -1,0 +1,12 @@
+{
+  "name": "ticket-routes",
+  "version": "1.0.0",
+  "description": "API de gerenciamento de tickets de suport",
+  "license": "ISC",
+  "author": "th-maia",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  }
+}

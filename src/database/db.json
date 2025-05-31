@@ -1,0 +1,13 @@
+{
+    "tickets": [
+        {
+            "id": "4e043dc3-f95d-49ba-8802-a0b9bf97727d",
+            "equipment": "computador",
+            "description": "não liga",
+            "user_name": "testeuser",
+            "status": "open",
+            "created_at": "2025-05-30T11:51:38.809Z",
+            "updated_at": "2025-05-30T11:51:38.809Z"
+        }
+    ]
+}
